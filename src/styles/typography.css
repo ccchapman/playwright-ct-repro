@@ -1,0 +1,5 @@
+@layer base {
+  .something {
+    @apply text-xl;
+  }
+}
